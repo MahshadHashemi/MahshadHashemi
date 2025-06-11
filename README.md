@@ -54,7 +54,7 @@ I'm a Data Scientist and PhD researcher specializing in machine learning for bio
 ## 📫 Let's Connect
 
 - 🌐 [GitHub](https://github.com/MahshadHashemi)
-- 💼 [LinkedIn](www.linkedin.com/in/mahshad-hashemi-852488181)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahshad-hashemi-852488181/)
 
 ---
 
