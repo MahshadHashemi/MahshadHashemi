@@ -1,5 +1,5 @@
 
-# 👋 Hi, I'm Mahshad Hashemi
+# Hi, I'm Mahshad Hashemi
 
 I'm a Data Scientist and PhD researcher specializing in machine learning for biological and real-world data. With over 5 years of experience, I design intelligent systems at the intersection of AI, graph theory, and computational biology. My work spans:
 
